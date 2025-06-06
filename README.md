@@ -20,8 +20,8 @@ _Note: This README was generated with assistance from [ChatGPT](https://chatgpt.
 
 <img src="images/most_popular_app_cat.png" alt="Most Popular App Categories" width="700" height="320">
 
-<img src="images/scatter_plot_1_popularity_indices.png" alt="Scatter Plot - Popularity Indices" width="550" height="450">
-<img src="images/scatter_plot_2_saturation_indices.png" alt="Scatter Plot - Saturation Indices" width="550" height="450">
+<img src="images/scatter_plot_1_popularity_indices.png" alt="Scatter Plot - Popularity Indices" width="420" height="400">
+<img src="images/scatter_plot_2_saturation_indices.png" alt="Scatter Plot - Saturation Indices" width="420" height="400">
 
 ## Technologies Used
 
